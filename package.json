@@ -28,6 +28,7 @@
     "gulp-iconfont": "^8.0.1",
     "gulp-rename": "^1.2.2",
     "gulp-sketch": "^1.0.3",
-    "lodash": "^4.17.2"
+    "lodash": "^4.17.2",
+    "tar": ">=2.2.2"
   }
 }
