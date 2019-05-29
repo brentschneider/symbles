@@ -9,9 +9,9 @@ const bs = require('browser-sync').create()
  * Font settings
  */
 const fontName = 'symbols' // set name of your symbol font
-const className = 's' // set class name in your CSS
+const className = 'ea' // set class name in your CSS
 const template = 'fontawesome-style' // or 'foundation-style'
-const skethcFileName = 'symbol-font-14px.sketch' // or 'symbol-font-16px.sketch'
+const skethcFileName = 'symbol-font-16px.sketch' // or 'symbol-font-16px.sketch'
 
 /**
  * Recommended to get consistent builds when watching files
