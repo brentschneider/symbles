@@ -1,4 +1,4 @@
-# Symbols for Sketch [![Stories in Ready](https://badge.waffle.io/cognitom/symbols-for-sketch.png?label=ready&title=Ready)](https://waffle.io/cognitom/symbols-for-sketch)
+# Symbols for Sketch 
 
 ![Webfonts](images/webfonts.png)
 
